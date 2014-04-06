@@ -1,19 +1,4 @@
-body {
-  padding-top: 10px;
-}
-[class*="col-"], footer {
-  background-color: lightgreen;
-  border: 2px solid black;
-  border-radius: 6px;
-  line-height: 40px;
-  text-align: center;
-}
-
-.navbar-fixed-top {
-background-color: #e06825;
-border-color: #e06825;
-}
-.active{
-background-color: #e06825;
-border-color: #e06825;
+.btn-outline {
+	/*border-radius: 1px;*/
+	background-color: transparent;
 }
