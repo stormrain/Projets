@@ -1,6 +1,63 @@
 body {
 	background-color: #FFFFFF;
 }
+/*NavBar*/
+.nav-bar {
+	margin-bottom: 0px;
+}
+
+/*Header*/
+.bs-header {
+	background-color: #5fb0e4;
+	text-align: center;	
+	padding: 50px 0px 50px;
+}
+
+.bs-header h1 {
+	color: #FFFFFF;
+	padding-bottom: 0px;
+	font-size: 50px;
+}
+
+.bs-header p {
+	font-size: 23px;
+	color: white;
+}
+
+/*Corps*/
+.bs-top-corps {
+	background-color: #eee;
+	font-weight: 200;
+
+	padding-top: 48px;
+	padding-bottom: 48px;
+
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.bs-top-corps p {
+	font-size: 40px;
+
+}
+
+.bs-top-corps .text-presentation {
+	font-size: 20px;
+}
+
+.bs-top-corps .bg-corps {
+	
+	padding: 30px;
+}
+
+.title-top-corps {
+	color: #5fb0e4;	
+}
+
+
+
+
+
 
 .btn-outline {
 color: #563d7c;
