@@ -37,12 +37,19 @@ body {
 }
 
 .bs-top-corps p {
-	font-size: 40px;
-
+	font-size: 40px;	
 }
 
 .bs-top-corps .text-presentation {
 	font-size: 20px;
+	color: #666;
+	font-weight: 100;
+}
+
+.bs-top-corps .title-presentation {
+	font-size: 20px;
+	color: #666;
+	font-weight: 200;
 }
 
 .bs-top-corps .bg-corps {
