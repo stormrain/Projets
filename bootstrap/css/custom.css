@@ -155,6 +155,171 @@ body {
 }
 
 
+/* =================================================================================================== */
+/* ===================================     Tableau compétences     ====================================== */
+/* =================================================================================================== */
+.bs-top-corps-competence {
+	font-size: 20px;
+	color: #666;
+	font-weight: 100;
+}
+
+.corps-competence {
+	/*padding-left: 20px;*/
+	/*padding-right: 20px;*/
+	/*padding-top: 50px;*/
+	/*padding-bottom: 50px;	*/
+
+	margin: 30px 0px 10px 0px;
+	/*border: 1px solid #eee;*/
+}
+
+.corps-title {
+	text-align: center;
+}
+
+.bs-competence-corps {
+	/*background-color: #eee;*/
+	font-weight: 200;
+
+	/*padding-top: 48px;*/
+	/*padding-bottom: 48px;*/
+
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.bs-competence-corps .text-competence {
+	font-size: 15px;
+	color: #666;
+	font-weight: 100;
+	text-align: center;
+}
+
+.bs-competence-corps .title-competence {
+	font-size: 20px;
+	color: #666;
+	font-weight: 200;
+}
+
+.bs-competence-corps .bg-corps {
+	
+	/*padding: 30px;*/
+}
+
+.title-competence-corps {
+	color: #5fb0e4;	
+	text-align: center;
+	font-size: 40px
+}
+
+.bs-competence-corps .corps-title {
+	font-size: 20px;
+	color: #666;
+	font-weight: 200;
+	text-align: center;
+}
+
+.bs-competence-corps .coprs-text {
+	font-size: 20px;
+	color: #666;
+	font-weight: 200;
+	text-align: center;
+}
+
+.bs-competence-corps .bottom {
+	padding: 10px;
+}
+
+/* =================================================================================================== */
+/* ===================================    Formulaire Contact     ====================================== */
+/* =================================================================================================== */
+.bs-top-corps-contact {
+	font-size: 20px;
+	color: #666;
+	font-weight: 100;
+}
+
+.corps-contact {
+	/*padding-left: 20px;*/
+	/*padding-right: 20px;*/
+	/*padding-top: 50px;*/
+	/*padding-bottom: 50px;	*/
+
+	margin: 30px 0px 10px 0px;
+	/*border: 1px solid #eee;*/
+}
+
+.corps-title {
+	text-align: center;
+}
+
+.bs-contact-corps {
+	/*background-color: #eee;*/
+	font-weight: 200;
+
+	/*padding-top: 48px;*/
+	/*padding-bottom: 48px;*/
+
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.bs-contact-corps .text-presentation {
+	font-size: 20px;
+	color: #666;
+	font-weight: 100;
+	text-align: center;
+}
+
+.bs-contact-corps .title-presentation {
+	font-size: 20px;
+	color: #666;
+	font-weight: 200;
+}
+
+.bs-contact-corps .bg-corps {
+	
+	/*padding: 30px;*/
+}
+
+.title-contact-corps {
+	color: #5fb0e4;	
+	text-align: center;
+	font-size: 40px
+}
+
+.bs-contact-corps .corps-title {
+	font-size: 20px;
+	color: #666;
+	font-weight: 200;
+	text-align: center;
+}
+
+.bs-contact-corps .coprs-text {
+	font-size: 20px;
+	color: #666;
+	font-weight: 200;
+	text-align: center;
+}
+
+.bs-contact-corps .bottom {
+	padding: 10px;
+}
+/* =================================================================================================== */
+/* ===================================    Footer     ====================================== */
+/* =================================================================================================== */
+
+.bs-footer {
+	background-color: #5fb0e4;
+	text-align: left;	
+	padding: 5px 0px 50px;
+}
+
+.bs-footer {
+	color: #FFFFFF;
+	font-size: 25px;
+}
 
 
 /* =================================================================================================== */
